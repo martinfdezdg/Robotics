@@ -1,1 +1,2 @@
-# Rob-tica
+# Robotica
+Asignatura: Robótica
